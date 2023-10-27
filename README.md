@@ -1,8 +1,8 @@
 # Lajosné Hőgye Ildikó vagyok
 ## Gyulán élek a férjemmel és három fiammal
-1. _Barnabás_
-1. *Bertalan*
-1.  *_Botond_*
+1. *Barnabás*
+1. **Bertalan**
+1.  **_Botond_**
 * Településmérnök, 
 * Környezetmérnök 
 * mérnöktanár vagyok, 
