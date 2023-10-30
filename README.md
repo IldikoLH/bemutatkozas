@@ -8,7 +8,7 @@
 * mérnöktanár vagyok, 
 jelenleg a közös vállalkozásunk van a **__férjemmel__**.
 ___
-A hobbim a kutyakiképzés és a Rally obedience. Ez ~~egy~~ nagyon érdekes sport. A középső fiunk, **__Berci**__, országos bajnok lett ebben a sportban októberben junior kategóriában.
+A hobbim a kutyakiképzés és a Rally obedience. Ez ~~egy~~ nagyon érdekes sport. A középső fiunk, **__Berci__**, országos bajnok lett ebben a sportban októberben junior kategóriában.
 **__Barni__** és **__Berci__** nagyon szeretnek teljesítménytúrázni. Idén Boszniában tekertek a hegyek között.  
 
 | oszlop1     | oszlop2           | oszlop3  |
