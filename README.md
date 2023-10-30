@@ -7,10 +7,11 @@
 * Környezetmérnök 
 * mérnöktanár vagyok, 
 jelenleg a közös vállalkozásunk van a **__férjemmel__**.
-A hobbim a kutyakiképzés és a Rally obedience. Ez egy nagyon érdekes sport. A középső fiunk, Berci, országos bajnok lett ebben a sportban októberben junior kategóriában. 
+A hobbim a kutyakiképzés és a Rally obedience. Ez ~~egy~~ nagyon érdekes sport. A középső fiunk, Berci, országos bajnok lett ebben a sportban októberben junior kategóriában. 
 
 | oszlop1     | oszlop2           | oszlop3  |
 | ------------- |:-------------:| -----:|
-|ez     | fd | $1600 |
-| az      | centered      |   $12 |
-| amaz | are neat      |    $1 |
+|ez     | ez is | még ez is |
+| az      | az is     |   még az is |
+| amaz | amaz is      |    még amaz is |
+ha valakit érdekel a sport ez a linkje [Rally Obedience](www.rallyobedience.hu)
