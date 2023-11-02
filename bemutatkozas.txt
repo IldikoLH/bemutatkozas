@@ -1,16 +1,20 @@
 # Lajosné Hőgye Ildikó vagyok
-## Gyulán élek a férjemmel és három fiammal
-1.**Barnabás**
-..1.*Bertalan*
-4.*_Botond_*
+## Gyulán élek a férjemmel és három fiunkkal. 
+### Nagyon szeretek olvasni, leginkább szépirodalmat. 
+
 - Településmérnök, 
 - Környezetmérnök 
 - mérnöktanár vagyok, 
+
 jelenleg a közös vállalkozásunk van a **__férjemmel__**.
+
 A hobbim a kutyakiképzés és a Rally obedience. Ez egy nagyon érdekes sport. A középső fiunk, Berci, országos bajnok lett ebben a sportban októberben junior kategóriában. 
 
-| oszlop1     | oszlop2           | oszlop3  |
+| gyereknév   | életkor       | sport  |
 | ------------- |:-------------:| -----:|
-|ez     | fd | $1600 |
-| az      | centered      |   $12 |
-| amaz | are neat      |    $1 |
+|1.**Barnabás**  | 15 év| kosárlabda, teljesítmény kerékpározás |
+| ..1.*Bertalan*  | 13 év      |   kosárlabda, Rally obedience |
+|4.*_Botond_*| 9év      |    kosárlabda, úszás |
+
+
+ha valakit érdekel a sport ez a linkje [Rally Obedience](https://rally-obedience.hu/)
