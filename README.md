@@ -12,9 +12,9 @@ A hobbim a kutyakiképzés és a Rally obedience. Ez egy nagyon érdekes sport. 
 
 | gyereknév   | életkor       | sport  |
 | ------------- |:-------------:| -----:|
-|1.**Barnabás**  | 15 év| kosárlabda, teljesítmény kerékpározás |
-| ..1.*Bertalan*  | 13 év      |   kosárlabda, Rally obedience |
-|4.*_Botond_*| 9év      |    kosárlabda, úszás |
+|Barnabás**  | 15 év| kosárlabda, teljesítmény kerékpározás |
+| Bertalan*  | 13 év      |   kosárlabda, Rally obedience |
+|*_Botond_*| 9év      |    kosárlabda, úszás |
 
 
 ha valakit érdekel a sport ez a linkje [Rally Obedience](https://rally-obedience.hu/)
